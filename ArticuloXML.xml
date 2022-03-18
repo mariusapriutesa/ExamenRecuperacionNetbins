@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<articulos>
+    <articulo alquilado="true" estante="2" estanteria="4" fechaAlquiler="2022-02-10" id="1" precio="5.3" titulo="Hades"/>
+    <articulo alquilado="false" estante="1" estanteria="4" fechaAlquiler="2022-03-10" id="2" precio="6.7" titulo="Demons Souls"/>
+    <articulo alquilado="false" estante="4" estanteria="9" fechaAlquiler="2022-03-12" id="3" precio="4" titulo="Returnal"/>
+    <articulo alquilado="false" estante="5" estanteria="8" fechaAlquiler="2022-03-14" id="4" precio="8.9" titulo="Deathloop"/>
+    <articulo alquilado="false" estante="4" estanteria="2" fechaAlquiler="2022-03-15" id="5" precio="7.2" titulo="Gran turismo 7"/>
+    <articulo alquilado="true" estante="3" estanteria="12" fechaAlquiler="2022-03-18" id="6" precio="8.2" titulo="Far Cry 6"/>
+</articulos>
